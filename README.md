@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/github/license/your-org/yess-loyalty?style=for-the-badge)](https://github.com/your-org/yess-loyalty/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/release/your-org/yess-loyalty?style=for-the-badge)](https://github.com/your-org/yess-loyalty/releases)
 
-## 🚀 О проекте
+## 🚀about project
 
 Yess! Loyalty - инновационная платформа лояльности, созданная для трансформации взаимодействия бизнеса и клиентов в Кыргызстане.
 
